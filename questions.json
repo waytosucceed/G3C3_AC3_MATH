@@ -1,0 +1,24 @@
+[
+  {
+    "questionNo": 1,
+    "question": " In the dim light of the cave, Olivia finds a symbol. Fill in the blanks to find out what number is hidden in this model?",
+    "options":["325","=","3","hundreds,","","tens,","","ones"],
+    "answers": ["325","=","3","hundreds,","2","tens,","5","ones"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "Olivia is getting closer to the treasure, but she needs to fill in the missing blanks to unlock the number.",
+    "options":["4285","=","","thousands,","2","hundreds,","","tens,","5","ones"],
+    "answers": ["4285","=","4","thousands,","2","hundreds,","8","tens,","5","ones"],
+    "secondImg":"./images/8.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "As Olivia reaches the final chamber, she finds the last model. Can you determine which number it represents by filling the missing blanks?",
+    "options":["","=","","thousands,","","hundreds,","","tens,","","ones"],
+    "answers": ["3167","=","3","thousands,","1","hundreds,","6","tens,","7","ones"],
+    "secondImg":"./images/9.jpg"
+  }
+]
